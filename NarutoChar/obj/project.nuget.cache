@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2/2yh4c4avus3emIbT+CmXf/+oTJFyyecptZLCRSjtNaf4xVyuU6Y6qBiycS+zQ6vL5KgUP0fAZXM+cGTFWLVA==",
+  "dgSpecHash": "A6I17kIpQY1qEDvxiFHMvW7M9KGVWrp22xdUrSfd2wS6SUEb8ZtIaYFd5V/fhcr7yNzw0mAVuHcsQbIZiQRRUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\furka\\Desktop\\Emvisi\\NarutoC\\NarutoChar\\NarutoChar.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\htmlagilitypack.cssselectors.netcore\\1.2.1\\htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",

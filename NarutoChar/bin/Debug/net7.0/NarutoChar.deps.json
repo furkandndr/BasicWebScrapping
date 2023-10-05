@@ -8,11 +8,32 @@
     ".NETCoreApp,Version=v7.0": {
       "NarutoChar/1.0.0": {
         "dependencies": {
+          "HtmlAgilityPack": "1.11.36",
+          "HtmlAgilityPack.CssSelectors.NetCore": "1.2.1",
           "Microsoft.AspNetCore.OpenApi": "7.0.7",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
           "NarutoChar.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.36": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.36.0",
+            "fileVersion": "1.11.36.0"
+          }
+        }
+      },
+      "HtmlAgilityPack.CssSelectors.NetCore/1.2.1": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.36"
+        },
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.CssSelectors.NetCore.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
         }
       },
       "Microsoft.AspNetCore.OpenApi/7.0.7": {
@@ -80,6 +101,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dCuPhd6Mcdz0oyaSidPqZZiaKcVaBnIqCQlvgJx7Qr5PJAjSatSIVPmuOwpMjbtR8mqoXyUbWVKxuairGGauJg==",
+      "path": "htmlagilitypack/1.11.36",
+      "hashPath": "htmlagilitypack.1.11.36.nupkg.sha512"
+    },
+    "HtmlAgilityPack.CssSelectors.NetCore/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ES2Ht+wpgaLmyyyCP9cl3AT5U2BtTOCZ2pdFL8GYa27V8IAD9U77KOcuvi61k+nDE4kpU+EjwaBJepVFqLpmGA==",
+      "path": "htmlagilitypack.cssselectors.netcore/1.2.1",
+      "hashPath": "htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.OpenApi/7.0.7": {
       "type": "package",

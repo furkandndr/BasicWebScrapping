@@ -31,3 +31,5 @@ C:\Users\furka\Desktop\Emvisi\NarutoC\NarutoChar\obj\Debug\net7.0\refint\NarutoC
 C:\Users\furka\Desktop\Emvisi\NarutoC\NarutoChar\obj\Debug\net7.0\NarutoChar.pdb
 C:\Users\furka\Desktop\Emvisi\NarutoC\NarutoChar\obj\Debug\net7.0\NarutoChar.genruntimeconfig.cache
 C:\Users\furka\Desktop\Emvisi\NarutoC\NarutoChar\obj\Debug\net7.0\ref\NarutoChar.dll
+C:\Users\furka\Desktop\Emvisi\NarutoC\NarutoChar\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\furka\Desktop\Emvisi\NarutoC\NarutoChar\bin\Debug\net7.0\HtmlAgilityPack.CssSelectors.NetCore.dll
